@@ -15,8 +15,8 @@ Commented out at the start of this script is an example of how you can run the s
 PlotSideBySideHPCruns.py is a script that produces the channel plots in the paper and a few others.
 SolarRadiationPlots.py produces the variation of solar radiation based on the surface tilt plot.
 
-3. StreamVelocities. Contains a script and data. The data is from the Greenland field season in 2024 on Issunguta Sermia and has velocity
-profiles across a supraglacial channel. This data was augmented by a noslip (0 velocity) condition on the boundary.
+3. StreamVelocities. Contains a script and data. The data is from the Greenland field season in 2024 on Isunguta Sermia and has velocity
+profiles across a supraglacial channel. This data was augmented by a no-slip (0 velocity) condition on the boundary.
 The python script plots this data and retrieves relevant properties which are presented in the table in the paper.
 
 The prerun data to create the scripts is too large to upload to GitHub. When the paper is published, it will be made available on Zenodo.
