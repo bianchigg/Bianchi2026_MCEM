@@ -10,7 +10,7 @@ IceWallMeltFunctionGhost.py contains the functions which evolve the temperature 
 ObjectBoundary.py is a script which helps with defining the channels initially.
 
 2. Plotting routines. This folder contains all the plotting scripts to reproduce the figures in the paper.
-PlotScriptPosition.py is to show how to plot any given run from the 'PreRunData' folder, and isn't used to create a plot in the paper.
+PlotScriptPosition.py is to show how to plot any given run from the pre-run data, and isn't used to create a plot in the paper.
 Commented out at the start of this script is an example of how you can run the script yourself.
 PlotSideBySideHPCruns.py is a script that produces the channel plots in the paper and a few others.
 SolarRadiationPlots.py produces the variation of solar radiation based on the surface tilt plot.
